@@ -18,6 +18,3 @@
 
 - [📧 Open for consultancy work](mailto:jonwilldoit+ghrm@proton.me)
 
-### ❌ Social Media:
-
-- I quit it
