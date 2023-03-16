@@ -11,7 +11,7 @@
 
 ### 🔥 Excited About:
 
-- Swift, SwiftUI, TypeScript
+- Swift, SwiftUI, TypeScript, Rust
 - AI is really having a moment 🤖💡
 
 ### 💼 Availability:
