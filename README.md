@@ -16,7 +16,7 @@
 
 ### 💼 Availability:
 
-- Open for consultancy work
+- [📧 Open for consultancy work](mailto:jonwilldoit+ghrm@proton.me)
 
 ### ❌ Social Media:
 
