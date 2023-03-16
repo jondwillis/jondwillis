@@ -6,7 +6,7 @@
 
 ### 🚀 Career Highlights:
 
-- In university, created open-source Android app, [ElectricSleep](https://github.com/jondwillis/electricsleep) ⚡😴 with over 1 million users.
+- In university, created open-source Android app, [ElectricSleep](https://github.com/jondwillis/electricsleep) ⚡😴 with over 1 million users
 - First mobile engineer at [Pluto TV](https://www.paramount.com/press/viacom-agrees-to-acquire-pluto-tv) ($340MM exit)
 
 ### 🔥 Excited About:
