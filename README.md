@@ -2,10 +2,7 @@
 
 🎯 **Full-stack engineer** with 10+ years of experience, focusing on:
 
-- iOS
-- tvOS
-- watchOS
-- macOS
+- iOS, tvOS, watchOS, macOS
 
 ### 🚀 Career Highlights:
 
@@ -14,9 +11,7 @@
 
 ### 🔥 Excited About:
 
-- Swift
-- SwiftUI
-- TypeScript
+- Swift, SwiftUI, TypeScript
 - AI is really having a moment 🤖💡
 
 ### 💼 Availability:
