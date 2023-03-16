@@ -1,11 +1,28 @@
-🤗 I'm Jon!
+## 👋 Hi, I'm Jon!
 
-I'm a full-stack engineer with more than 10 years of experience who is specialized in iOS, tvOS, watchOS, and macOS.
+🎯 **Full-stack engineer** with 10+ years of experience, focusing on:
 
-In college, I wrote an open-source app for Android, [ElectricSleep](https://github.com/jondwillis/ElectricSleep), which got me into mobile development, and I haven't looked back since! I was the first mobile engineer at [Pluto TV](https://www.paramount.com/press/viacom-agrees-to-acquire-pluto-tv), and have worked in startups since my time there.
+- iOS
+- tvOS
+- watchOS
+- macOS
 
-These days I'm excited about Swift, SwiftUI, TypeScript, and all of the possibilities that advances in AI are enabling.
+### 🚀 Career Highlights:
 
-I'm currently available for consultancy work!
+- In university, created open-source Android app, [ElectricSleep](https://github.com/jondwillis/electricsleep) ⚡😴 with over 1 million users.
+- First mobile engineer at [Pluto TV](https://www.paramount.com/press/viacom-agrees-to-acquire-pluto-tv) ($340MM exit)
 
-I'm not on social media.
+### 🔥 Excited About:
+
+- Swift
+- SwiftUI
+- TypeScript
+- AI is really having a moment 🤖💡
+
+### 💼 Availability:
+
+- Open for consultancy work
+
+### ❌ Social Media:
+
+- I quit it
