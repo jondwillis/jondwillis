@@ -3,6 +3,7 @@
 🎯 **Full-stack engineer** with 10+ years of experience, focusing on:
 
 - iOS, tvOS, watchOS, macOS
+- Novel LLMs
 
 ### 🚀 Career Highlights:
 
