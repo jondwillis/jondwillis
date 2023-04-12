@@ -3,7 +3,7 @@
 🎯 **Full-stack engineer** with over 10 years of experience, specializing in:
 
 - iOS, tvOS, watchOS, macOS
-- LLMs and generative AI
+- Application-level LLMs and generative AI
 
 ### 🚀 Career Highlights:
 
