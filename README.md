@@ -18,3 +18,4 @@
 
 - [📧 Open for consultancy work](mailto:jonwilldoit+ghrm@proton.me)
 
+- [Actively looking for co-founders](mailto:jonwilldoit+ghrm@proton.me)
