@@ -7,7 +7,7 @@
 
 ### 🚀 Career Highlights:
 
-- Lead mobile engineer at [Pluto TV](https://www.paramount.com/press/viacom-agrees-to-acquire-pluto-tv) ($340MM exit)
+- First lead mobile engineer at [Pluto TV](https://www.paramount.com/press/viacom-agrees-to-acquire-pluto-tv) ($340MM exit)
 - Developed open-source Android app, [ElectricSleep](https://github.com/jondwillis/electricsleep) ⚡😴, during university, amassing over 1 million users
 - Successfully launched over a dozen production-grade apps across various app stores throughout my career
 
