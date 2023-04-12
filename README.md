@@ -12,8 +12,9 @@
 
 ### 🔥 Excited About:
 
-- Swift, SwiftUI, TypeScript, Rust
 - AI is really having a moment 🤖💡
+- Building apps and services on top of novel LLMs
+- NextJS, SwiftUI, TypeScript, Rust
 
 ### 💼 Availability:
 
