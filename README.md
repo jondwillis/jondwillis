@@ -12,8 +12,9 @@
 
 ### 🔥 Excited About:
 
-- 🤖💡Creating apps and services utilizing innovative LLMs
-- Exploring NextJS, SwiftUI, TypeScript, and Rust
+- 🤖💡Creating apps and services utilizing innovative LLMs and generative AI
+- Continuing to explore NextJS, SwiftUI, TypeScript
+- Learning Rust and Python
 
 ### 💼 Availability:
 
