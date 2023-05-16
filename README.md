@@ -9,7 +9,7 @@
 
 ### 🔥 Excited About:
 
-- Building apps with AI Agents
+- Building apps using AI Agents
 
 ### 💼 Availability:
 
@@ -21,3 +21,5 @@
 - First lead mobile engineer at [Pluto TV](https://www.paramount.com/press/viacom-agrees-to-acquire-pluto-tv) ($340MM exit)
 - Leader and individual contributor to many green-field projects in early stage startups.
 - Developed open-source Android app, [ElectricSleep](https://github.com/jondwillis/electricsleep) ⚡😴, during university, amassing over 1 million users
+
+[![Jon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jondwillis)](https://github.com/jondwillis/README.md)
