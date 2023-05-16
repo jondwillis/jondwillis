@@ -1,6 +1,18 @@
-## 👋 Hi, I'm Jon!
+👋
 
-🎯 **Full-stack engineer** with over 10 years of experience, specializing in:
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jondwillis&show_icons=true&count_private=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jondwillis&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jondwillis&show_icons=true&count_private=true" />
+</picture>
+
+### 🎯 I'm a **full-stack engineer** with over 10 years of experience, specializing in:
 
 - iOS, tvOS, watchOS, macOS, and web development
 - Application-level LLMs; libraries like [langchainjs](https://github.com/hwchase17/langchainjs)
@@ -22,4 +34,3 @@
 - Leader and individual contributor to many green-field projects in early stage startups.
 - Developed open-source Android app, [ElectricSleep](https://github.com/jondwillis/electricsleep) ⚡😴, during university, amassing over 1 million users
 
-[![Jon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jondwillis)](https://github.com/jondwillis/README.md)
