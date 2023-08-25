@@ -1,4 +1,4 @@
-👋 try out my latest open-source project -> [waggle🐝💃dance.ai](https://www.waggledance.ai)
+👋 try out my latest open-source project -> [waggle🐝💃dance.ai](https://github.com/agi-merge/waggle-dance)
 
 <picture>
 <source
