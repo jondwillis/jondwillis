@@ -1,4 +1,4 @@
-👋
+👋 try out my latest open-source project -> [waggle🐝💃dance.ai](https://www.waggledance.ai)
 
 <picture>
 <source
