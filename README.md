@@ -1,6 +1,6 @@
 👋 try out my latest open-source project:
 
-# # [waggledance.ai](https://github.com/agi-merge/waggle-dance)
+## [waggledance.ai](https://github.com/agi-merge/waggle-dance)
 
 <picture>
 <source
