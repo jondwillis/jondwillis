@@ -16,8 +16,8 @@
 
 ### 🎯 I'm a **full-stack engineer** with over 10 years of experience, specializing in:
 
-- iOS, tvOS, watchOS, macOS, and web development
-- Application-level LLMs; libraries like [langchainjs](https://github.com/hwchase17/langchainjs)
+- iOS, tvOS, watchOS, macOS, and web app development
+- Agent systems (LLMs/AI/Glue code)
 - NextJS + React (Currently skilling up and building with this framework)
 - Lightweight project management, ownership, and workflow automation
 
