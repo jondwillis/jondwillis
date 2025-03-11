@@ -16,14 +16,20 @@
 -->
 ### 🎯 I'm a **full-stack engineer** with over 10 years of experience, specializing in:
 
-- iOS, tvOS, watchOS, macOS, and web app development
-- Agent systems (LLMs/AI/Glue code)
+- Working with/in your startup or small organization
+- Apple app development: iOS, macOS, iPadOS, tvOS, watchOS, macOS
+- Web app development: HTML, React, Preact, Vue, Next.js, other frameworks and tools du jour.
+- AI Apps: LLMs, RAG, Agents, and more. 
 - NextJS + React (Currently skilling up and building with this framework)
 - Lightweight project management, ownership, and workflow automation
 
 ### 🔥 Excited About:
 
-- Building apps using AI Agents
+- AI-assisted computer use (think Apple Intelligence, but if it was less lame)
+- Scaling language models at test-time (e,g, `reasoning`, `agent` graph problem-solving, data retrieval and organization 
+- Building datasets and evaluating language models
+- Applications of "tradiitonal" ML in scaling language models
+
 
 ### 💼 Availability:
 
