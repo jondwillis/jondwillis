@@ -1,7 +1,7 @@
 👋 try out my latest open-source project:
 
 ## [waggledance.ai](https://github.com/agi-merge/waggle-dance)
-
+<!--
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=jondwillis&show_icons=true&count_private=true&theme=dark"
@@ -13,7 +13,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=jondwillis&show_icons=true&count_private=true" />
 </picture>
-
+-->
 ### 🎯 I'm a **full-stack engineer** with over 10 years of experience, specializing in:
 
 - iOS, tvOS, watchOS, macOS, and web app development
