@@ -33,7 +33,8 @@
 
 ### 💼 Availability:
 
-- [Actively seeking co-founders](mailto:jonwilldoit+ghrm@proton.me)
+- Working full-time as a full stack AI engineer at a stealth startup
+- [Passively seeking co-founders for AI-enabled products and services](mailto:jonwilldoit+ghrm@proton.me)
 - [📧 Open for consultancy work](mailto:jonwilldoit+ghrm@proton.me)
 
 ### 🚀 Career Highlights:
