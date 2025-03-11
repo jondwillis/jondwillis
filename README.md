@@ -35,7 +35,7 @@ check out my ahead-of-its time AI Agent swarm demo app from 2023: https://github
 ### 🔥 Excited About:
 
 - AI-assisted computer use (think Apple Intelligence, but if it was less lame)
-- Scaling language models at test-time (e,g, `reasoning`, `agent` graph problem-solving, data retrieval and organization 
+- Scaling language models at test-time (e,g, `reasoning`, `agent` graph problem-solving, data retrieval and organization)
 - Building datasets and evaluating language models
 - Applications of "tradiitonal" ML in scaling language models
 
