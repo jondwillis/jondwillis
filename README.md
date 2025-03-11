@@ -6,7 +6,7 @@ check out my ahead-of-its time AI Agent swarm demo app from 2023: https://github
 ### 💼 Availability:
 
 - Working full-time as a full stack AI engineer at a stealth startup
-- [Passively seeking co-founders for AI-enabled products and services](mailto:jonwilldoit+ghrm@proton.me)
+- [Passively seeking co-founders with AI-related businesses or ideas](mailto:jonwilldoit+ghrm@proton.me)
 - [📧 Open for consultancy work](mailto:jonwilldoit+ghrm@proton.me)
 
 
