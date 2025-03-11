@@ -1,6 +1,15 @@
-👋 try out my latest open-source project:
 
-## [waggledance.ai](https://github.com/agi-merge/waggle-dance)
+👋 I'm Jon, a full-scale software engineer and occasional co-founder
+
+check out my ahead-of-its time AI Agent swarm demo app from 2023: https://github.com/agi-merge/waggle-dance
+
+### 💼 Availability:
+
+- Working full-time as a full stack AI engineer at a stealth startup
+- [Passively seeking co-founders for AI-enabled products and services](mailto:jonwilldoit+ghrm@proton.me)
+- [📧 Open for consultancy work](mailto:jonwilldoit+ghrm@proton.me)
+
+
 <!--
 <picture>
 <source
@@ -31,11 +40,6 @@
 - Applications of "tradiitonal" ML in scaling language models
 
 
-### 💼 Availability:
-
-- Working full-time as a full stack AI engineer at a stealth startup
-- [Passively seeking co-founders for AI-enabled products and services](mailto:jonwilldoit+ghrm@proton.me)
-- [📧 Open for consultancy work](mailto:jonwilldoit+ghrm@proton.me)
 
 ### 🚀 Career Highlights:
 
