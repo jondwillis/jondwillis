@@ -1,5 +1,5 @@
 
-👋 I'm Jon, a full-scale software engineer and occasional co-founder
+👋 I'm Jon, a full-stack software engineer and occasional co-founder
 
 check out my ahead-of-its time AI Agent swarm demo app from 2023: https://github.com/agi-merge/waggle-dance
 
