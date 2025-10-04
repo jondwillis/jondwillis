@@ -1,48 +1,40 @@
+# Jon Willis
 
-👋 I'm Jon, a full-stack software engineer and occasional co-founder
+Full-stack AI Engineer specializing in agent architectures, AI UX, and early-stage product development.
 
-check out my ahead-of-its time AI Agent swarm demo app from 2023: https://github.com/agi-merge/waggle-dance
+## Current
 
-### Availability:
+**Stealth AI Startup** — Software Engineer (Apr 2024 - Present)  
+Leading agent architecture design and implementation. Built extensible tool framework with type-safe validation and automatic error correction. Shipping hybrid local/cloud LLM system optimizing for cost, performance, and privacy. Full-stack: Node, Bun, Deno, Swift/Apple, CI/CD.
 
-- Working full-time as a full stack AI engineer at a stealth startup
-- [Passively seeking co-founders with AI-related businesses or ideas](mailto:jw-port-burner@proton.me)
+## Notable Work
 
+**[waggle-dance](https://github.com/agi-merge/waggle-dance)** (2023)  
+Open-source multi-agent workflow orchestration with DAG-based planning—built before reasoning models existed. Parallel agent execution, TypeScript stack (Next.js, LangChain, Postgres, Weaviate).
 
-<!--
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=jondwillis&show_icons=true&count_private=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=jondwillis&show_icons=true&count_private=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=jondwillis&show_icons=true&count_private=true" />
-</picture>
--->
-### I'm a **full-stack engineer** with over 10 years of experience, specializing in:
+**Pluto TV** (2013-2016)  
+First mobile engineer at pre-seed stage through $340M acquisition by Viacom. Launched original apps across iOS, Android, Apple TV, Android TV. Featured at Google I/O 2015. Built and led mobile/frontend teams.
 
-- Working with/in your startup or small organization
-- Apple app development: iOS, macOS, iPadOS, tvOS, watchOS, macOS
-- Web app development: HTML, React, Preact, Vue, Next.js, other frameworks and tools du jour.
-- AI Apps: LLMs, RAG, Agents, and more. 
-- NextJS + React (Currently skilling up and building with this framework)
-- Lightweight project management, ownership, and workflow automation
+**ElectricSleep ⚡😴**  
+Open-source Android sleep tracking app with 1M+ users.
 
-### Excited About:
+## Expertise
 
-- AI-assisted computer use (think Apple Intelligence, but if it was less lame)
-- Scaling language models at test-time (e,g, `reasoning`, `agent` graph problem-solving, data retrieval and organization)
-- Building datasets and evaluating language models
-- Applications of "tradiitonal" ML in scaling language models
+- **AI Engineering**: Agent systems, RAG/context engineering, tool frameworks, evals, MLOps
+- **Apple Platforms**: iOS, macOS, iPadOS, tvOS, watchOS, SwiftUI
+- **Web**: TypeScript, React, Next.js, Deno, Node.js, Bun
+- **Languages**: TypeScript, Swift, Python, Rust, Kotlin
+- **Product**: 0→1 development, technical leadership, early-stage startups
 
+## Interested In
 
+- Test-time compute scaling (reasoning, agent graphs, retrieval optimization)
+- Agentic computer use beyond current assistants  
+- Model evaluation methodology and dataset development
+- Traditional ML for LLM inference optimization
 
-### Career Highlights:
+## Connect
 
-- First lead mobile engineer at [Pluto TV](https://www.paramount.com/press/viacom-agrees-to-acquire-pluto-tv) ($340MM exit)
-- Leader and individual contributor to many green-field projects in early stage startups.
-- Developed open-source Android app, [ElectricSleep](https://github.com/jondwillis/electricsleep) ⚡😴, during university, amassing over 1 million users
-
+🌐 [jonwillis.dev](https://jonwillis.dev)  
+📧 jw-port-burner@proton.me  
+💼 Open to co-founder opportunities in AI product space
