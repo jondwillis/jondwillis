@@ -1,40 +1,31 @@
 # Jon Willis
 
-Full-stack AI Engineer specializing in agent architectures, AI UX, and early-stage product development.
+AI product engineer in Los Angeles. I build agent systems and ship products that solve real problems.
 
-## Current
+## What I'm working on
 
-**Stealth AI Startup** — Software Engineer (Apr 2024 - Present)  
-Leading agent architecture design and implementation. Built extensible tool framework with type-safe validation and automatic error correction. Shipping hybrid local/cloud LLM system optimizing for cost, performance, and privacy. Full-stack: Node, Bun, Deno, Swift/Apple, CI/CD.
+**[Valara](https://getvalara.com)** — AI-powered appraisal review for mortgage lending. An agent reads entire appraisal reports and surfaces collateral risks with page-level citations. Reviews that took hours now complete in minutes.
 
-## Notable Work
+**[Kinelo](https://kinelo.com)** — Designing agent harness plugin architecture with structured tool use, skill systems, and evaluation pipelines. Full-stack: Next.js, NestJS, TypeScript, Vercel AI SDK.
 
-**[waggle-dance](https://github.com/agi-merge/waggle-dance)** (2023)  
-Open-source multi-agent workflow orchestration with DAG-based planning—built before reasoning models existed. Parallel agent execution, TypeScript stack (Next.js, LangChain, Postgres, Weaviate).
+## Things I've built
 
-**Pluto TV** (2013-2016)  
-First mobile engineer at pre-seed stage through $340M acquisition by Viacom. Launched original apps across iOS, Android, Apple TV, Android TV. Featured at Google I/O 2015. Built and led mobile/frontend teams.
+**[waggle-dance](https://github.com/agi-merge/waggle-dance)** — Open-source multi-agent workflow orchestration with DAG-based planning. Built before reasoning models existed. 170+ stars.
 
-**ElectricSleep ⚡😴**  
-Open-source Android sleep tracking app with 1M+ users.
+**[Pluto TV](https://pluto.tv)** — First mobile engineer at pre-seed. Built original apps across iOS, Android, Apple TV, Android TV. Stuck around through $340M acquisition by Viacom. Featured at Google I/O 2015.
 
-## Expertise
+**[ElectricSleep](https://github.com/jondwillis/electricsleep)** — Open-source Android sleep tracker. 1M+ users back when that meant something on the Play Store.
 
-- **AI Engineering**: Agent systems, RAG/context engineering, tool frameworks, evals, MLOps
-- **Apple Platforms**: iOS, macOS, iPadOS, tvOS, watchOS, SwiftUI
-- **Web**: TypeScript, React, Next.js, Deno, Node.js, Bun
-- **Languages**: TypeScript, Swift, Python, Rust, Kotlin
-- **Product**: 0→1 development, technical leadership, early-stage startups
+**[jonwillis.dev](https://jonwillis.dev)** — Portfolio site. Next.js 16, Tailwind v4, HeroUI v3. Print-optimized resume, scroll-tracked navigation, dark mode. [Source](https://github.com/jondwillis/portfolio).
 
-## Interested In
+## What I'm good at
 
-- Test-time compute scaling (reasoning, agent graphs, retrieval optimization)
-- Agentic computer use beyond current assistants  
-- Model evaluation methodology and dataset development
-- Traditional ML for LLM inference optimization
+Agent architectures, context engineering, TypeScript, React, Swift, shipping 0→1 products, and knowing when to stop adding features.
 
-## Connect
+## Get in touch
 
-🌐 [jonwillis.dev](https://jonwillis.dev)  
-📧 jw-port-burner@proton.me  
-💼 Open to co-founder opportunities in AI product space
+I'm open to advisory, consulting, startup partnerships, and the right full-time role.
+
+🌐 [jonwillis.dev/contact](https://jonwillis.dev/contact)
+📧 jw-port-burner@proton.me
+💼 [LinkedIn](https://linkedin.com/in/willisjon)
