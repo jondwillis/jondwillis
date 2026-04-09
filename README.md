@@ -1,6 +1,6 @@
 # Jon Willis
 
-AI product engineer in Los Angeles. I build agent systems and ship products that solve real problems.
+AI product engineer in the SF Bay Area. I build agent systems and ship products that solve real problems.
 
 ## What I'm working on
 
