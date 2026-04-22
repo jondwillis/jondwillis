@@ -2,12 +2,6 @@
 
 AI product engineer in the SF Bay Area. I build agent systems and ship products that solve real problems.
 
-## What I'm working on
-
-**[Valara](https://getvalara.com)** — AI-powered appraisal review for mortgage lending. An agent reads entire appraisal reports and surfaces collateral risks with page-level citations. Reviews that took hours now complete in minutes.
-
-**[Kinelo](https://kinelo.com)** — Designing agent harness plugin architecture with structured tool use, skill systems, and evaluation pipelines. Full-stack: Next.js, NestJS, TypeScript, Vercel AI SDK.
-
 ## Things I've built
 
 **[waggle-dance](https://github.com/agi-merge/waggle-dance)** — Open-source multi-agent workflow orchestration with DAG-based planning. Built before reasoning models existed. 170+ stars.
