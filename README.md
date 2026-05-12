@@ -6,7 +6,7 @@ AI product engineer in the SF Bay Area. I build agent systems and ship products 
 
 ## Things I've built
 
-https://getvalara.com
+[See jonwillis.dev](https://jonwillis.dev)
 
 **[waggle-dance](https://github.com/agi-merge/waggle-dance)** — Open-source multi-agent workflow orchestration with DAG-based planning. Built before reasoning models existed. 170+ stars.
 
